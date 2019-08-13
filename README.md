@@ -3,5 +3,5 @@
 
 星期一 | 星期二 |  星期三 | 星期四 |星期五 |星期六 | 星期天 |
 -|-|-|-|-|-|-|
- 练胸  | 练背   | [练肩](https://github.com/withlin/Fitness/blob/master/shoulder.md)  |  练手臂(肱三头肌肱二头肌)  | 练腿   | 练腹  |  练啥  | 
+ [练胸](https://github.com/withlin/Fitness/blob/master/chest.md)  | [练背](https://github.com/withlin/Fitness/blob/master/rear.md)   | [练肩](https://github.com/withlin/Fitness/blob/master/shoulder.md)  |  [练手臂](https://github.com/withlin/Fitness/blob/master/arm.md)  | [练腿](https://github.com/withlin/Fitness/blob/master/leg.md)   | [练腹](https://github.com/withlin/Fitness/blob/master/abdomen.md)  |  练啥  | 
 
